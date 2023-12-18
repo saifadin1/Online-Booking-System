@@ -44,5 +44,12 @@ namespace OnlineBookingSystem
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            TrainSelectionFormcs trainSelectionFormcs = new TrainSelectionFormcs();
+            this.Hide();
+            trainSelectionFormcs.Show();
+        }
     }
 }

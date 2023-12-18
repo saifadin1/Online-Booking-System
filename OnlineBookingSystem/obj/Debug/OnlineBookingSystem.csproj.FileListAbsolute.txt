@@ -9,3 +9,4 @@ D:\cs\DB\DB_Project\OnlineBookingSystem\OnlineBookingSystem\obj\Debug\OnlineBook
 D:\cs\DB\DB_Project\OnlineBookingSystem\OnlineBookingSystem\obj\Debug\OnlineBookingSystem.pdb
 D:\cs\DB\DB_Project\OnlineBookingSystem\OnlineBookingSystem\obj\Debug\OnlineBookingSystem.LoginFrom.resources
 D:\cs\DB\DB_Project\OnlineBookingSystem\OnlineBookingSystem\obj\Debug\OnlineBookingSystem.SginUp.resources
+D:\cs\DB\DB_Project\OnlineBookingSystem\OnlineBookingSystem\obj\Debug\OnlineBookingSystem.TrainSelectionFormcs.resources

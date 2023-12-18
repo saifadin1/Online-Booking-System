@@ -60,6 +60,12 @@
     <Compile Include="SginUp.Designer.cs">
       <DependentUpon>SginUp.cs</DependentUpon>
     </Compile>
+    <Compile Include="TrainSelectionFormcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainSelectionFormcs.Designer.cs">
+      <DependentUpon>TrainSelectionFormcs.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -74,6 +80,9 @@
     </Compile>
     <EmbeddedResource Include="SginUp.resx">
       <DependentUpon>SginUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainSelectionFormcs.resx">
+      <DependentUpon>TrainSelectionFormcs.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
